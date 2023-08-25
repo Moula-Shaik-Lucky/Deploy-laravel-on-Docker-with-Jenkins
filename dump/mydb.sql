@@ -10,5 +10,5 @@ CREATE TABLE `Person` (
 INSERT INTO `Person` (`id`, `name`) VALUES
 (1, 'Shaik'),
 (2, 'kishore'),
-(3, 'Dinesh'),
-(4, 'Karthik');
+(3, 'Lucky'),
+(4, 'Aswi');
