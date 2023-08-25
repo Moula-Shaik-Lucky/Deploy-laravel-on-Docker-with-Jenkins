@@ -32,9 +32,9 @@ services:
         ports:
             - 82:80
         environment:
-            MYSQL_USER: ranjit
-            MYSQL_PASSWORD: ranjit
-            MYSQL_ROOT_PASSWORD: ranjit
+            MYSQL_USER: shaik
+            MYSQL_PASSWORD: shaik
+            MYSQL_ROOT_PASSWORD: shaik
 volumes:
     persistent:
 
