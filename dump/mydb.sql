@@ -11,4 +11,6 @@ INSERT INTO `Person` (`id`, `name`) VALUES
 (1, 'Shaik'),
 (2, 'Apkapay'),
 (3, 'Lucky'),
-(4, 'Aswin');
+(4, 'Jenkins');
+(5, 'Docker');
+(6, 'GitHub');
