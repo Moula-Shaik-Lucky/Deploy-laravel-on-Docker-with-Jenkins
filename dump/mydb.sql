@@ -9,6 +9,6 @@ CREATE TABLE `Person` (
 
 INSERT INTO `Person` (`id`, `name`) VALUES
 (1, 'Shaik'),
-(2, 'kishore'),
+(2, 'Apkapay'),
 (3, 'Lucky'),
-(4, 'Aswi');
+(4, 'Aswin');
